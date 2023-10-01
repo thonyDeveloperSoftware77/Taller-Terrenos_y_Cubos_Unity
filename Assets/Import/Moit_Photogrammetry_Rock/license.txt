@@ -1,0 +1,11 @@
+Model Information:
+* title:	Moit Photogrammetry Rock
+* source:	https://sketchfab.com/3d-models/moit-photogrammetry-rock-74336235442546fe9803ad3198969515
+* author:	Danielle (https://sketchfab.com/porridgealmanac)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Moit Photogrammetry Rock" (https://sketchfab.com/3d-models/moit-photogrammetry-rock-74336235442546fe9803ad3198969515) by Danielle (https://sketchfab.com/porridgealmanac) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
