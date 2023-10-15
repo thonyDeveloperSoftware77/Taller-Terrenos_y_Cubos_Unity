@@ -55,5 +55,8 @@ public class Movimiento : MonoBehaviour
         characterController.Move(movement + velocity * Time.deltaTime);
 
 
+
     }
+   
+
 }
